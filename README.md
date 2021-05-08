@@ -11,7 +11,7 @@ In 2017, I'd purchased some bitcoins `(btc)` when it was at 9k and ethereum `(et
 
 Lots of people started panic selling at a loss. They're probably kicking themselves after seeing btc rise to 55k in 2021. 
 
-The key is to hold onto cryptocurrencies that have potential. And to be honest, 99% of the currencies that's listed in https://coinmarketcap.com/ are crap.
+The key is to hold onto cryptocurrencies that have potential. And to be honest, 99% of the currencies that are listed in https://coinmarketcap.com/ are crap.
 
 So if you can't handle the heat, I suggest you invest into some index and ETFs such as S&P 500 and NASDAQ.
 
