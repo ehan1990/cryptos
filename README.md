@@ -37,7 +37,3 @@ By far the crappiest exchange for cryptos. They only support btc and eth, charge
 2. Transfer them to your binance account. Costs 0.02XRP which is only like 2cents. 
 3. Convert XRP to USDC or BUSD
 4. Use USDC or BUSD to buy the cryptocurrency you want.
-
-I usually buy $1000CAD-worth of coins on netcoins. By the time I get them to binance in USDC or BUSD, I'm usually left with $980 ~ 990.
-
-
