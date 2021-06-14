@@ -33,11 +33,11 @@ By far the crappiest exchange for cryptos. They only support btc and eth, charge
 
 ## The flow
 
-1. Buy USDT or XRP in netcoins.
-2. Transfer them to your binance account.
-3. Convert XRP or USDT to USDC or BUSD (USDT is not a safe currency to store money in)
+1. Buy XRP in netcoins. Netcoins take a 0.5% commission off from your purchase, which is really cheap compared to the 5% and 2.5% that coinbase and robinhood charge you.
+2. Transfer them to your binance account. Costs 0.02XRP which is only like 2cents. 
+3. Convert XRP to USDC or BUSD
 4. Use USDC or BUSD to buy the cryptocurrency you want.
 
-I usually buy $1000CAD-worth of coins on netcoins. By the time I get them to binance in USDC or BUSD, I'm usually left with $980 ~ 985 (-1.5~2%).
+I usually buy $1000CAD-worth of coins on netcoins. By the time I get them to binance in USDC or BUSD, I'm usually left with $980 ~ 990.
 
 
