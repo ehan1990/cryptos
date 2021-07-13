@@ -37,3 +37,16 @@ By far the crappiest exchange for cryptos. They only support btc and eth, charge
 2. Transfer them to your binance account. Costs 0.02XRP which is only like 2cents. 
 3. Convert XRP to USDC or BUSD
 4. Use USDC or BUSD to buy the cryptocurrency you want.
+
+## Creating a BEP-20 coin
+1. Go to https://remix.ethereum.org/
+2. Create a bep-20.sol file
+3. Copy my bep-20.sol content into the file
+4. Compile with 0.8.1
+5. Connect to metamask (select injected web3)
+6. Set initial supply + 18 zeroes
+7. Click deploy
+8. Copy the transaction hash into https://bscscan.com/
+9. Add the token to metamask (paste contract address)
+10. Send some tokens to the contract address
+11. Go to pancakeswap to trade https://pancakeswap.finance/
