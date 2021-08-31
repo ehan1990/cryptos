@@ -26,7 +26,7 @@ The biggest cryptocurrency exchange in the world. Use this to hold your cryptocu
 The biggest cryptocurrency exchange in North America, and they're insured. Do not buy from them because they also charge a chunk of fees (4% on a buy, 1~4% on a sell). I use it to sell my cryptocurrencies into $CAD.
 
 ### Netcoins
-A small exchange started by a few individuals in Vancouver. 0.5% fees on purchase, and transfer fees vary from 2 cents to $5. Buy cryptocurrencies from here
+A small exchange started by a few individuals in Vancouver. 0.5% fees on purchase, and transfer fees vary from 2 cents to $20. Buy cryptocurrencies from here
 
 ### Wealthsimple
 By far the crappiest exchange for cryptos. They only support btc and eth, charge a heck tons of fees, and you buy and sell on a spread (e.g. they sell you at 1 ~ 3% above market, and buy from you at 1 ~ 3% below market). You don't even get your own wallet, and can only buy and sell on wealthsimple exchange (can't transfer). No reason to ever use them.
