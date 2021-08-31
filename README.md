@@ -35,8 +35,8 @@ By far the crappiest exchange for cryptos. They only support btc and eth, charge
 
 1. Buy XRP in netcoins. Netcoins take a 0.5% commission off from your purchase, which is really cheap compared to the 5% and 2.5% that coinbase and robinhood charge you.
 2. Transfer them to your binance account. Costs 0.02XRP which is only like 2cents. 
-3. Convert XRP to USDC or BUSD
-4. Use USDC or BUSD to buy the cryptocurrency you want.
+3. Trade XRP to USDC or BUSD (binance takes 0.1% trading fees which is very cheap)
+4. Use USDC or BUSD to trade the cryptocurrency you want (again, 0.1% fees).
 
 ## Creating a BEP-20 coin
 1. Go to https://remix.ethereum.org/
